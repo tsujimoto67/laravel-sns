@@ -1,1 +1,5 @@
 laradock
+data/dind/containerd/daemon/io.containerd.metadata.v1.bolt/meta.db
+data/dind/buildkit/cache.db
+data/dind/network/files/local-kv.db
+data/dind/volumes/metadata.db
